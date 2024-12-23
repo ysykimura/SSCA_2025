@@ -7,7 +7,7 @@ February 24(Mon)--26(Wed), 2025
 
 # Venue
 Nagoya University,
-Graduate School of Mathematics,
+Graduate School of Mathematics
 
 # Organizers
 - Osamu Iyama
