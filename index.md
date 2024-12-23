@@ -19,3 +19,9 @@ Graduate School of Mathematics,
 
 - Salvatore Stella (Universita Degli Studi Della’Aquila)
 - Kyungyong Lee (The University of Alabama)
+
+
+# Speakers
+- Zhichao Chen (University of Science and Technology of China/Nagoya University)
+- [Hiroaki Karuo (Gakushuin University)](https://sites.google.com/view/karuo/home)
+- [Davide Dal Martello (Rikkyo University)](https://www.davidedalmartello.com/)
