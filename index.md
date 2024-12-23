@@ -3,7 +3,8 @@ title: Spring School on Cluster Algebras 2025
 ---
 
 # Date
-February 24(Mon)--26(Wed), 2025
+February 24(Mon)--26(Wed),
+2025
 
 # Venue
 Nagoya University,
