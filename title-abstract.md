@@ -25,7 +25,7 @@ mutation fan and the fan of almost-positive roots.
 
 # Speakers
 
-## [Hiroaki Karuo (Gakushuin University)](https://sites.google.com/view/karuo/home
+## Hiroaki Karuo (Gakushuin University
 ### Azumaya representations of generalized skein algebras
 Some generalizations of skein algebras relate to (quantum) cluster algebras of surface type. To study their algebraic structures, understanding their representations is basic and important. For non-commutative algebras, the unicity theorem claims that we can access to the representation theory using their centers. In this talk, I will explain some properties of generalized skein algebras related to the unicity theorem and share some future works.
 
