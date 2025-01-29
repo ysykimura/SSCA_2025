@@ -2,3 +2,4 @@
 .texpadtmp/program.aux
 .texpadtmp/program.log
 .texpadtmp/program.synctex.gz
+*.json
