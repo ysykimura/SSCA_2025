@@ -9,8 +9,10 @@ February 24(Mon)--26(Wed),
 # Venue
 Nagoya University, Graduate School of Mathematics
 Science Building A, Room A207
+
 Next to Mathematics Building. See the map below:  
 https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html#b
+
 # Organizers
 - Osamu Iyama
 - Yoshiyuki Kimura
