@@ -27,4 +27,5 @@ https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html#b
 - [Hiroaki Karuo (Gakushuin University)](https://sites.google.com/view/karuo/home)
 - [Davide Dal Martello (Rikkyo University)](https://www.davidedalmartello.com/)
 
-# [Title and Abstract](title-abstract)
+# Program
+# Title and Abstract
