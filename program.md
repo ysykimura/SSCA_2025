@@ -17,10 +17,10 @@ title: Program
 - 9:00-10:30, **Salvatore Stella**, Cluster scattering diagrams of affine type (2)
 - 10:45-11:45, **Davide Dal Martello**, 
 - 13:30-15:00, **Kyungyong Lee**, (2)
-- 15:15-16:15, **Zhichao Chen**, 
+- 15:15-16:15, **Karuo**, Azumaya representations of generalized skein algebras 
 
 ## 2/26(Wednesday)
 - 10:00-11:30, **Salvatore Stella**, Cluster scattering diagrams of affine type (3)
 - 13:00-14:30, **Kyungyong Lee**, (3)
-- 14:45-15:45, **Karuo**, Azumaya representations of generalized skein algebras
+- 14:45-15:45, **Zhichao Chen**,
 
