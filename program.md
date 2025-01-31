@@ -15,7 +15,7 @@ title: Program
 
 ## 2/25(Tuesday)
 - 9:00-10:30, **Salvatore Stella**, Cluster scattering diagrams of affine type (2)
-- 10:45-11:45, **Davide Dal Martello**, 
+- 10:45-11:45, **Davide Dal Martello**, Painlevé VI, symmetries, and clusters 
 - 13:30-15:00, **Kyungyong Lee**, Scattering diagrams, tight gradings, and generalized positivity (2)
 - 15:15-16:15, **Karuo**, Azumaya representations of generalized skein algebras 
 
