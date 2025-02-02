@@ -33,6 +33,10 @@ After we discuss bases for generalized rank 2 cluster algebras, we will introdu
 
 # Speakers
 
+## Zhichao Chen (University of Science and Technology of China/Nagoya University)
+### A cluster theory approach from mutation invariants to Diophantine equations
+In this talk, we define and classify the sign-equivalent exchange matrices. We give a Diophantine explanation for the differences between rank 2 cluster algebras of finite type and infinite type. Then, we classify the positive integer points of the Markov mutation invariant and its variant. As an application, several classes of Diophantine equations with cluster algebraic structures are exhibited. This is a joint work with Zixu Li.
+
 ## Hiroaki Karuo (Gakushuin University)
 ### Azumaya representations of generalized skein algebras
 Some generalizations of skein algebras relate to (quantum) cluster algebras of surface type. To study their algebraic structures, understanding their representations is basic and important. For non-commutative algebras, the unicity theorem claims that we can access to the representation theory using their centers. In this talk, I will explain some properties of generalized skein algebras related to the unicity theorem and share some future works.
@@ -41,3 +45,4 @@ Some generalizations of skein algebras relate to (quantum) cluster algebras of s
 ## Davide Dal Martello (Rikkyo University)
 ### Painlevé VI, symmetries, and clusters
 The sixth Painlevé equation (PVI) admits a native $\mathfrak{sl}_2(\mathbb{C})$-Fuchsian representation. Taking advantage of a higher Teichm\"uller coordinatization for the corresponding monodromy group, we give Okamoto’s symmetry of PVI a realization on the representation space in the language of cluster $\mathcal{X}$-mutations.The explicit mutation formula admits dual characterizations in geometric terms of colored associaheda and star-shaped fat graphs, expanding the cluster state of the art for PVI.
+
