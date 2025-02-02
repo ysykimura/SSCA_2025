@@ -22,5 +22,5 @@ title: Program
 ## 2/26(Wednesday)
 - 10:00-11:30, **Salvatore Stella**, Cluster scattering diagrams of affine type (3)
 - 13:00-14:30, **Kyungyong Lee**, Scattering diagrams, tight gradings, and generalized positivity (3)
-- 14:45-15:45, **Zhichao Chen**,
+- 14:45-15:45, **Zhichao Chen**, A cluster theory approach from mutation invariants to Diophantine equations
 
