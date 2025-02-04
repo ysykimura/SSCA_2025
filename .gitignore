@@ -1,5 +1,8 @@
 
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/workspace.json
 .texpadtmp/program.aux
 .texpadtmp/program.log
 .texpadtmp/program.synctex.gz
-*.json
