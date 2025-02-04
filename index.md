@@ -29,5 +29,5 @@ Next to Mathematics Building. See the map below:
 - [Hiroaki Karuo (Gakushuin University)](https://sites.google.com/view/karuo/home)
 - [Davide Dal Martello (Rikkyo University)](https://www.davidedalmartello.com/)
 
-# Program
-# Title and Abstract
+# [Program](program.md)
+# [Title and Abstract](title-abstract.md)
