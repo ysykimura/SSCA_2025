@@ -1,0 +1,232 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section*{Date}\label{date}
+\addcontentsline{toc}{section}{Date}
+
+February 24(Mon)-\/-26(Wed), 2025
+
+\section*{Venue}\label{venue}
+\addcontentsline{toc}{section}{Venue}
+
+Nagoya University, Graduate School of Mathematics
+
+Building A, Room A207 See the map below:
+
+https://www.math.nagoya-u.ac.jp/en/direction/nagoya.html\#b
+
+\section*{Program}\label{program}
+\addcontentsline{toc}{section}{Program}
+
+\subsection*{2/24}\label{section}
+\addcontentsline{toc}{subsection}{2/24}
+
+\begin{description}
+\item[13:00-14:30]
+Stella, Cluster scattering diagrams of affine type (1)
+\item[15:00-16:30]
+Lee, Scattering diagrams, tight gradings, and generalized positivity (1)
+\end{description}
+
+\subsection*{2/25}\label{section-1}
+\addcontentsline{toc}{subsection}{2/25}
+
+\begin{description}
+\item[9:00-10:30]
+Stella, Cluster scattering diagrams of affine type (2)
+\item[10:45-11:45]
+Martello, Painlevé VI, symmetries, and clusters
+\item[13:30-15:00]
+Lee, Scattering diagrams, tight gradings, and generalized positivity (2)
+\item[15:15-16:15]
+Karuo, Azumaya representations of generalized skein algebras
+\end{description}
+
+\subsection*{2/26}\label{section-2}
+\addcontentsline{toc}{subsection}{2/26}
+
+\begin{description}
+\item[10:00-11:30]
+Stella, Cluster scattering diagrams of affine type (3)
+\item[13:00-14:30]
+Lee, Scattering diagrams, tight gradings, and generalized positivity (3)
+\item[14:45-15:45]
+Chen, A cluster theory approach from mutation invariants to Diophantine
+equations
+\end{description}
+
+\section*{Abstract}\label{abstract}
+\addcontentsline{toc}{section}{Abstract}
+
+\subsection*{Salvatore Stella (Universita Degli Studi
+Della'Aquila)}\label{salvatore-stella-universita-degli-studi-dellaaquila}
+\addcontentsline{toc}{subsection}{Salvatore Stella (Universita Degli
+Studi Della'Aquila)}
+
+\subsubsection*{Cluster scattering diagrams of affine
+type}\label{cluster-scattering-diagrams-of-affine-type}
+\addcontentsline{toc}{subsubsection}{Cluster scattering diagrams of
+affine type}
+
+Cluster scattering diagrams, since their introduction, played a central
+role in shaping the structure theory of cluster algebras. They consist
+of a combinatorial datum, a fan, together with the assignment of a
+formal power series for each of its codimension-1 cones. While their
+recursive definition is in theory explicit, constructing cluster
+scattering diagrams is usually a difficult task. In this lecture series
+we will address this problem in the special case of acyclic cluster
+algebras of affine type where we can leverage previous constructions
+built using the machinery of root systems, Coxeter groups, lattice
+theory to relate cluster scattering diagrams to two other fans: the
+mutation fan and the fan of almost-positive roots.
+
+\subsection*{Kyungyong Lee (The University of
+Alabama)}\label{kyungyong-lee-the-university-of-alabama}
+\addcontentsline{toc}{subsection}{Kyungyong Lee (The University of
+Alabama)}
+
+\subsubsection*{Scattering diagrams, tight gradings, and generalized
+positivity}\label{scattering-diagrams-tight-gradings-and-generalized-positivity}
+\addcontentsline{toc}{subsubsection}{Scattering diagrams, tight
+gradings, and generalized positivity}
+
+These lectures will be based on joint work with Amanda Burcroff and Lang
+Mou. I plan to explain a recent result showing that the coefficients of
+the wall-functions on a generalized cluster scattering diagram~of any
+rank are positive, which implies the Laurent positivity for generalized
+cluster algebras and the strong positivity of their theta bases.
+
+Several known arguments allow us to reduce the general case to the rank
+2 case. We will introduce generalized~rank 2 cluster algebras~and their
+greedy bases/theta bases. A number of formulas for these bases will be
+presented. Every statement will~be accompanied by very explicit
+examples.
+
+After we discuss bases for generalized~rank 2 cluster algebras, we will
+introduce a new class of combinatorial objects which we call tight
+gradings. Using this, we give a directly computable, manifestly
+positive, and elementary but highly nontrivial formula describing rank 2
+consistent scattering diagrams. In trying to make my lectures completely
+elementary, pictorial descriptions will be given whenever possible.
+
+\subsection*{Zhichao Chen (University of Science and Technology of
+China/Nagoya
+University)}\label{zhichao-chen-university-of-science-and-technology-of-chinanagoya-university}
+\addcontentsline{toc}{subsection}{Zhichao Chen (University of Science
+and Technology of China/Nagoya University)}
+
+\subsubsection*{A cluster theory approach from mutation invariants to
+Diophantine
+equations}\label{a-cluster-theory-approach-from-mutation-invariants-to-diophantine-equations}
+\addcontentsline{toc}{subsubsection}{A cluster theory approach from
+mutation invariants to Diophantine equations}
+
+In this talk, we define and classify the sign-equivalent exchange
+matrices. We give a Diophantine explanation for the differences between
+rank 2 cluster algebras of finite type and infinite type. Then, we
+classify the positive integer points of the Markov mutation invariant
+and its variant. As an application, several classes of Diophantine
+equations with cluster algebraic structures are exhibited. This is a
+joint work with Zixu Li.
+
+\subsection*{Hiroaki Karuo (Gakushuin
+University)}\label{hiroaki-karuo-gakushuin-university}
+\addcontentsline{toc}{subsection}{Hiroaki Karuo (Gakushuin University)}
+
+\subsubsection*{Azumaya representations of generalized skein
+algebras}\label{azumaya-representations-of-generalized-skein-algebras}
+\addcontentsline{toc}{subsubsection}{Azumaya representations of
+generalized skein algebras}
+
+Some generalizations of skein algebras relate to (quantum) cluster
+algebras of surface type. To study their algebraic structures,
+understanding their representations is basic and important. For
+non-commutative algebras, the unicity theorem claims that we can access
+to the representation theory using their centers. In this talk, I will
+explain some properties of generalized skein algebras related to the
+unicity theorem and share some future works.
+
+\subsection*{Davide Dal Martello (Rikkyo
+University)}\label{davide-dal-martello-rikkyo-university}
+\addcontentsline{toc}{subsection}{Davide Dal Martello (Rikkyo
+University)}
+
+\subsubsection*{Painlevé VI, symmetries, and
+clusters}\label{painlevuxe9-vi-symmetries-and-clusters}
+\addcontentsline{toc}{subsubsection}{Painlevé VI, symmetries, and
+clusters}
+
+The sixth Painlevé equation (PVI) admits a native
+\(\mathfrak{sl}_{2}(\mathbb{C})\)-Fuchsian representation. Taking
+advantage of a higher Teichmüller coordinatization for the corresponding
+monodromy group, we give Okamoto's symmetry of PVI a realization on the
+representation space in the language of cluster
+\(\mathcal{X}\)-mutations.The explicit mutation formula admits dual
+characterizations in geometric terms of colored associaheda and
+star-shaped fat graphs, expanding the cluster state of the art for PVI.
+
+\section*{Organizers}\label{organizers}
+\addcontentsline{toc}{section}{Organizers}
+
+\begin{itemize}
+\item
+  Osamu Iyama
+\item
+  Yoshiyuki Kimura
+\item
+  Tomoki Nakanishi (chief)
+\item
+  Hironori Oya
+\end{itemize}
+
+\end{document}
